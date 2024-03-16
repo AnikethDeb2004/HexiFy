@@ -138,5 +138,3 @@ function synthVoice(text) {
 function scrollConversationToBottom() {
   conversation.scrollTop = conversation.scrollHeight;
 }
-
-
